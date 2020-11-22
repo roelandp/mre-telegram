@@ -1,0 +1,7 @@
+{
+	"name": "AltspaceVR Telegram Chatter",
+	"author": "RoelandP",
+	"license": "MIT",
+	"repositoryUrl": "https://github.com/roelandp/mixed-reality-extension-sdk-samples",
+	"optionalPermissions": ["user-interaction"]
+}
